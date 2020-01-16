@@ -26,3 +26,4 @@ Negative potential consequences of an action.
 public void (string[] args){
 Console.out("something");
 }
+```
