@@ -21,3 +21,8 @@ Negative potential consequences of an action.
 * list item
   
 1. numered list
+
+```cs 
+public void (string[] args){
+Console.out("something");
+}
